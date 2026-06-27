@@ -5,6 +5,16 @@ A Python-based AI Voice Assistant inspired by **Jarvis** from Iron Man.
 This assistant can recognize voice commands, answer questions using AI, fetch the latest news, play music, and open websites using voice commands.
 
 ---
+
+## 📌 Internship Information
+
+- **Company:** CodTech IT Solutions
+- **Intern Name:** Himanshu Kumar
+- **Intern ID:** YOUR_INTERN_ID
+- **Domain:** Python Development
+- **Project:** Jarvis AI Voice Assistant
+
+---
 ## 📌 Project Status
 
 **Version:** 1.0
