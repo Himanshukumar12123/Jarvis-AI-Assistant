@@ -6,13 +6,14 @@ This assistant can recognize voice commands, answer questions using AI, fetch th
 
 ---
 
-## 📌 Internship Information
+# 📌 Internship Details
 
-- **Company:** CodTech IT Solutions
-- **Intern Name:** Himanshu Kumar
-- **Intern ID:** YOUR_INTERN_ID
-- **Domain:** Python Development
-- **Project:** Jarvis AI Voice Assistant
+- **Company:** CODTECH IT SOLUTIONS
+- **Name:** Himanshu Kumar
+- **Intern ID:** CITS3815  
+- **Domain:** Python Programming
+- **Task:** Task 1 – Desktop Assistant (Jarvis)
+- **Duration:** 4 Weeks
 
 ---
 ## 📌 Project Status
